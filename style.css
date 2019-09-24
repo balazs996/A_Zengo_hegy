@@ -1,0 +1,43 @@
+body{
+    background-color: darkslateblue;
+}
+
+#content{
+    width: 888px;
+    margin: auto;
+    background-color: goldenrod;
+    padding: 29px;
+    border-radius: 50px;
+    outline: 20px solid darkslateblue;
+}
+#imageright{
+    margin-left: 20px;
+    float:right;
+}
+#imageleft{
+    margin-right: 40px;
+    margin-bottom: 80px;
+    float:left;
+}
+.kepszoveg{
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+a:link, :visited{
+    color: blue;
+}
+
+a:hover{
+    color: red;
+}
+
+h1, h2{
+    color: forestgreen;
+    text-transform: uppercase;
+}
+
+p, li{
+    text-align: justify;
+}
